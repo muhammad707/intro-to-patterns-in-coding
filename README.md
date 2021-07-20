@@ -1,1 +1,1 @@
-# intro-to-patterns-in-coding
+# Patterns for coding questions

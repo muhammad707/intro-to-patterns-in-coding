@@ -1,0 +1,25 @@
+{
+  "name": "intro-to-patterns-in-coding",
+  "version": "1.0.0",
+  "description": "Common patterns for solving coding questions",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhammad707/intro-to-patterns-in-coding.git"
+  },
+  "author": "Mukhammadjon Sirojiddinov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muhammad707/intro-to-patterns-in-coding/issues"
+  },
+  "homepage": "https://github.com/muhammad707/intro-to-patterns-in-coding#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
