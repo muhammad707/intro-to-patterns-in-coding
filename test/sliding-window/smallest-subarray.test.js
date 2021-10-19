@@ -1,6 +1,6 @@
 const smallestSubArrayWithGivenSum = require('../../src/sliding-window/smallest-subarray')
 
-describe('Sliding window', function() {
+xdescribe('Sliding window', function() {
   it(' Find smallest subarray length with given number', () => {
     expect(smallestSubArrayWithGivenSum(7, [2, 1, 5, 2, 3, 2])).toEqual(2)
     expect(smallestSubArrayWithGivenSum(7, [2, 1, 5, 2, 8])).toEqual(1)

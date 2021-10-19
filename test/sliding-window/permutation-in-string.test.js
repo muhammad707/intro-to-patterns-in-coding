@@ -1,6 +1,6 @@
 const permutationInString = require('../../src/sliding-window/permutation-in-string')
 
-describe('Sliding window challenge 1', () => {
+xdescribe('Sliding window challenge 1', () => {
   it('Permutation in a string', () => {
     expect(permutationInString("oidbcaf", "abc")).toEqual(true)
     expect(permutationInString("odicf", "dc")).toEqual(false)
